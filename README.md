@@ -2,7 +2,7 @@
 
 ## Description:
  
- [Application Demo Video](https://boiling-refuge-88812.herokuapp.com/)
+ [Deployed Applicatoin](https://boiling-refuge-88812.herokuapp.com/)
     
 An application that uses expressjs in which the user can add & delete notes on the fly.
    
